@@ -20,8 +20,10 @@ The iSpeech Android SDK can be tested with this API key: "developerdemokeydevelo
 
 Remember to edit your API key and server preference in iSpeechSample.java. Register your own API key at http://www.ispeech.org/developers.
 
- > public static String _APIKey = "developerdemokeydeveloperdemokey"; //your api key, http://www.ispeech.org/developers
- > public static boolean _Production = false; // false is "Mobile Development" and true is "Mobile Production"
+```java
+ public static String _APIKey = "developerdemokeydeveloperdemokey"; //your api key, http://www.ispeech.org/developers
+ public static boolean _Production = false; // false is "Mobile Development" and true is "Mobile Production"
+```
 
 ### Documentation
 
